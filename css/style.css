@@ -22,3 +22,21 @@ hr{
     text-align: center;
     padding-top: 5%;
 }
+
+
+/* *******Hamberger Menu************** */
+
+
+
+@media (max-width: 768px){
+    
+    
+    .hamburger .line{
+        width: 50px;
+        height: 5px;
+        display: block;
+        background-color: white;
+        margin: 8px auto;
+    }
+}
+
